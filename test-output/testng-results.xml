@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="11" total="12" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="٢٠٢٥-٠٥-٠٥T٠١:٤٥:٣٦ غرينتش+٠٣:٠٠" name="Default suite" finished-at="٢٠٢٥-٠٥-٠٥T٠١:٤٦:٢٧ غرينتش+٠٣:٠٠" duration-ms="51225">
+    <groups>
+    </groups>
+    <test started-at="٢٠٢٥-٠٥-٠٥T٠١:٤٥:٣٦ غرينتش+٠٣:٠٠" name="Default test" finished-at="٢٠٢٥-٠٥-٠٥T٠١:٤٦:٢٧ غرينتش+٠٣:٠٠" duration-ms="51225">
+      <class name="NewProject.Almosafer.AppTest">
+        <test-method is-config="true" signature="mysetup()[pri:0, instance:NewProject.Almosafer.AppTest@447a020]" started-at="٢٠٢٥-٠٥-٠٥T٠١:٤٥:٣٦ غرينتش+٠٣:٠٠" name="mysetup" finished-at="٢٠٢٥-٠٥-٠٥T٠١:٤٥:٤٢ غرينتش+٠٣:٠٠" duration-ms="6328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mysetup -->
+        <test-method signature="NewPage()[pri:12, instance:NewProject.Almosafer.AppTest@447a020]" started-at="٢٠٢٥-٠٥-٠٥T٠١:٤٥:٤٢ غرينتش+٠٣:٠٠" name="NewPage" finished-at="٢٠٢٥-٠٥-٠٥T٠١:٤٦:٢٧ غرينتش+٠٣:٠٠" duration-ms="44850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewPage -->
+      </class> <!-- NewProject.Almosafer.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
